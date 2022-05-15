@@ -1,1 +1,1 @@
-# react-socker-pt
+# react-socket-pt
